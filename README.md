@@ -1,0 +1,2 @@
+# ZPStatic
+本Demo主要介绍了extern关键字的用法和static关键字的两个用途。
